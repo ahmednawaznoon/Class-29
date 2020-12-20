@@ -1,2 +1,2 @@
-# Class-29
-Catapult and the rubber band
+# p5.play-boilerplate
+Boiler plate for p5.play
